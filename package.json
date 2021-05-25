@@ -1,0 +1,21 @@
+{
+  "name": "videoelectron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "electron": "^12.0.9", 
+    "express": "^4.17.1",
+    "init": "^0.1.2",
+    "jquery": "^3.6.0",
+    "random-string": "^0.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
